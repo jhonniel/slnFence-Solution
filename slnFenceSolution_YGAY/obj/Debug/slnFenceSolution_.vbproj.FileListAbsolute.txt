@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_\bin\Debug\slnFenceSolution_.exe.config
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_\bin\Debug\slnFenceSolution_.exe
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_\bin\Debug\slnFenceSolution_.pdb
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_\bin\Debug\slnFenceSolution_.xml
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_\obj\Debug\slnFenceSolution_.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_\obj\Debug\slnFenceSolution_.frmMain.resources
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_\obj\Debug\slnFenceSolution_.Resources.resources
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_\obj\Debug\slnFenceSolution_.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_\obj\Debug\slnFenceSolution_.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_\obj\Debug\slnFenceSolution_.exe
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_\obj\Debug\slnFenceSolution_.xml
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_\obj\Debug\slnFenceSolution_.pdb

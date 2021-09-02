@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_YGAY\bin\Debug\slnFenceSolution_YGAY.exe.config
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_YGAY\bin\Debug\slnFenceSolution_YGAY.exe
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_YGAY\bin\Debug\slnFenceSolution_YGAY.pdb
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_YGAY\bin\Debug\slnFenceSolution_YGAY.xml
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_YGAY\obj\Debug\slnFenceSolution_YGAY.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_YGAY\obj\Debug\slnFenceSolution_YGAY.frmMain.resources
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_YGAY\obj\Debug\slnFenceSolution_YGAY.Resources.resources
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_YGAY\obj\Debug\slnFenceSolution_YGAY.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_YGAY\obj\Debug\slnFenceSolution_YGAY.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_YGAY\obj\Debug\slnFenceSolution_YGAY.exe
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_YGAY\obj\Debug\slnFenceSolution_YGAY.xml
+C:\Users\User\source\repos\slnFenceSolution_\slnFenceSolution_YGAY\obj\Debug\slnFenceSolution_YGAY.pdb
